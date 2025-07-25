@@ -9,15 +9,12 @@ Welcome to **The Pacman Game**, a maze chase game developed as a personal projec
 In this custom version of **ThePacman Game**, the player controls a yellow character that navigates a maze, collects dots, avoids enemies, and clears levels. While the core idea comes from the classic, the game includes:
 
 -  My own game logic
--  Custom visuals and sound effects
 -  Unique level designs and layouts
--  Power-ups and score multipliers
 
 # Features
 
 - Keyboard-controlled gameplay (arrow keys)
 - score system, and level progression
-- Responsive game layout for different screen sizes
 
 # Tech Stack
 
